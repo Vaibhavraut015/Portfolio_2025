@@ -25,7 +25,7 @@ This project demonstrates the use of Amazon S3 (Simple Storage Service) to host 
   7.  Use CloudFront for HTTPS and caching.
 
  🔗 GitHub Repository
-   [Azure VM Deployment Project](https://github.com/prajaktabodade/Portfolio_2025/)
+   [AWS VM Deployment Project](https://github.com/prajaktabodade/Portfolio_2025/)
 
  📄 License
    This project is licensed under the MIT License<img width="1915" height="1017" alt="Snap2" src="https://github.com/user-attachments/assets/807c33db-77a9-4824-    915e-4f55afd428b3" />
